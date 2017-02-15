@@ -1,21 +1,16 @@
+# Binaries
 *.class
+bin/
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
+# Package Files
 *.jar
 *.war
 *.ear
 
-#log files
+#Log Files
 *.log
 
-#env folders
+#IDE & Environment Folders & Files
 .settings/*
-bin/
 .classpath
 .project
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
